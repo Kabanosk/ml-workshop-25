@@ -7,6 +7,5 @@ W tym repozytorium znajdziesz wykłady i listy ćwiczeniowe pokazane na zajęcia
 ml-workshop-25
 ├── notebooks  # Jupyter Notebooky z interaktywnymi przykładami i ćwiczeniami
 ├── datasets   # Przykładowe zbiory danych używane w ćwiczeniach
-├── exercises  # Zadania praktyczne wraz z rozwiązaniami
-└── docs       # Notatki teoretyczne i materiały referencyjne
+└── exercises  # Zadania praktyczne wraz z rozwiązaniami
 ```
