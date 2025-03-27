@@ -5,9 +5,8 @@ W tym repozytorium znajdziesz wykłady i listy ćwiczeniowe pokazane na zajęcia
 ## Struktura plików
 ```markdown
 ml-workshop-25
-├── notebooks  # Jupyter Notebooki z interaktywnymi przykładami i ćwiczeniami
-├── datasets   # Przykładowe zbiory danych używane w ćwiczeniach
-└── exercises  # Zadania praktyczne
+├── exercises  # Zadania praktyczne
+└── lectures   # Notebooki z wykładów
 ```
 
 ## Jak uruchomić notebooki
@@ -16,3 +15,9 @@ Aby uruchomić notebooki, możesz je zaimportować do Google Colab. Wystarczy ot
 
 ### Wersja trudna (ale może nie aż tak trudna)
 Zainstalować [Jupyterlab](https://jupyter.org/install). Zaletą tego jest to, że możemy to uruchomić na własnym komputerze co w pewnych przypadkach może być szybsze niż uruchamianie na Google Colab.
+
+### Wersja z użyciem poetry 
+1. Zainstalować `poetry` na przykład z użyciem `pip install poetry`.
+2. Zainstalować odpowiednie paczki za pomocą `poetry install`.
+3. Odpalamy notebook za pomocą `poetry run jupyter notebook`
+
