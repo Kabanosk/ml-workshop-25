@@ -1,4 +1,4 @@
-# zAJęcia pierwsze
+# Zajęcia pierwsze
 ## Wstęp do sztucznej inteligencji
 [link do ćwiczeń](introduction.ipynb)
 
