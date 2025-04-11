@@ -23,3 +23,9 @@
 # Zajęcia trzecie
 ## Regresja Liniowa
 [link do wykładu](linear-regression.ipynb)
+
+## Ocena Modelu podejście drugie
+[link do wykładu](ocena_modelu_podejscie_drugie.ipynb)
+
+## Brudne dane i jak sobie z nimi radzić
+[link do wykładu](brudne_dane.ipynb)

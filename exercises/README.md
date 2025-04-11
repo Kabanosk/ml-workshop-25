@@ -21,3 +21,6 @@
 # Zajęcia trzecie
 ## Regresja Liniowa
 [link do ćwiczeń](linear-regression.ipynb)
+
+## Brudne dane + Ocena Modelu
+[link do ćwiczeń](brudne_dane_ex.ipynb)
