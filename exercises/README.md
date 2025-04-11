@@ -18,3 +18,6 @@
 ## Jak mierzyć dokładność modelu?
 [link do ćwiczeń](ocena_modelu_ex.ipynb)
 
+# Zajęcia trzecie
+# Regresja Liniowa
+[link do ćwiczeń](linear-regression.ipynb)

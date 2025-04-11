@@ -20,3 +20,6 @@
 ## Czym jest przestrzeń i odległość?
 [link do prezentacji](https://www.canva.com/design/DAGjDtSQBLQ/Wl3cHbtcfVCFuinrwfO1bw/view?utm_content=DAGjDtSQBLQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha0dc521ee9)
 
+# Zajęcia trzecie
+# Regresja Liniowa
+[link do wykładu](linear-regression.ipynb)
