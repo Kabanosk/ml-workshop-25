@@ -34,7 +34,7 @@
 
 ## Macierze
 
-[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/lectures/03.2%20-%20matrices_intro.pdf)
+[link do prezentacji](03.2%20-%20matrices_intro.pdf)
 
 ## Ocena Modelu podejście drugie
 
