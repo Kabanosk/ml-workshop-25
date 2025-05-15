@@ -25,10 +25,10 @@
 [link do wykładu](03.1%20-%20linear_regression.ipynb)
 
 ## Macierze
-[link do prezentacji](matrices_intro.pdf)
+[link do prezentacji](03.2%20-%20matrices_intro.pdf)
 
 ## Ocena Modelu podejście drugie
-[link do wykładu](03.2%20-%20model_eval_revisit.ipynb)
+[link do wykładu](03.3%20-%20model_eval_revisit.ipynb)
 
 ## Brudne dane i jak sobie z nimi radzić
-[link do wykładu](03.3%20-%20dirty_data.ipynb)
+[link do wykładu](03.4%20-%20dirty_data.ipynb)
