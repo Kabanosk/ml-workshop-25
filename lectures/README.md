@@ -43,3 +43,10 @@
 ## Brudne dane i jak sobie z nimi radzić
 
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/lectures/03.4%20-%20dirty_data.ipynb)
+
+# Zajęcia czwarte
+
+## Regresja Logistyczna
+
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/lectures/04.1%20-%20logistic_regression.ipynb)
+

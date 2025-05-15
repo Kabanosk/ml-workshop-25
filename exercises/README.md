@@ -35,3 +35,10 @@
 ## Brudne dane + Ocena Modelu
 
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/exercises/03.3%20-%20dirty_data_ex.ipynb)
+
+# Zajęcia czwarte
+
+## Regresja Logistyczna
+
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/exercises/04.1%20-%20logistic_regression_ex.ipynb)
+
