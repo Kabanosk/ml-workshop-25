@@ -53,5 +53,5 @@
 
 ## Sieci neuronowe (pytorch)
 
-[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/exercises/04.1%20-%20neural_networks_pytorch_ex.ipynb)
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/exercises/05.2%20-%20neural_networks_pytorch_ex.ipynb)
 
