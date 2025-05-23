@@ -50,3 +50,7 @@
 
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/lectures/04.1%20-%20logistic_regression.ipynb)
 
+# Zajęcia piąte
+## Wstęp do sieci neuronowych
+
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12HVhJQt5GekwQ0yMWToHOP69WLIiWNlI?usp=sharing)
