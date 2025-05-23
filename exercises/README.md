@@ -42,6 +42,10 @@
 
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/exercises/04.1%20-%20logistic_regression_ex.ipynb)
 
+## Stochastyczny Spadek Wzdłuż Gradientu (SGD)
+
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_9hJ8u1MFNO6-i-DBJ1F1e2wsgSeGqbw?usp=sharing)
+
 # Zajęcia piąte
 ## Wstęp do sieci neuronowych
 
