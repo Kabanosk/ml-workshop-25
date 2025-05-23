@@ -58,3 +58,8 @@
 ## Wstęp do sieci neuronowych
 
 [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12HVhJQt5GekwQ0yMWToHOP69WLIiWNlI?usp=sharing)
+
+
+## Dobre rady do sieci neuronowych
+
+[![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kabanosk/ml-workshop-25/blob/main/lectures/05.3%20-%20neural_networks_tips.ipynb)
